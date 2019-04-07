@@ -1,4 +1,2 @@
-# writing
-Everything I know about writing
+# Initial page
 
-This repository has been created to sync with Gitbook.
